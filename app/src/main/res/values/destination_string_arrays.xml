@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bahamas_islands">
+        <item>Nassau, the Bahamas</item>
+        <item>Half Moon Cay, the Bahamas</item>
+        <item>Freeport, the Bahamas</item>
+    </string-array>
+
+    <string-array name="eastern_caribbean_islands">
+        <item>Amber Cove, Dominican Republic</item>
+        <item>Antigua</item>
+        <item>Nassau, the Bahamas</item>
+        <item>Grand Turk, Turks and Caicos</item>
+        <item>St. Thomas, US Virgin Islands</item>
+        <item>San Juan, Puerto Rico</item>
+        <item>St Maarten</item>
+        <item>Half Moon Cay, the Bahamas</item>
+        <item>Tortola, British Virgin Islands</item>
+        <item>Port Canaveral, FL</item>
+        <item>St. Croix</item>
+    </string-array>
+
+    <string-array name="western_caribbean_islands">
+        <item>Belize</item>
+        <item>Cartagena, Colombia</item>
+        <item>Colon, Panama</item>
+        <item>Costa Maya</item>
+        <item>Cozumel, Mexico</item>
+        <item>Falmouth, Jamaica</item>
+        <item>Grand Cayman, Cayman Islands</item>
+        <item>Key West, Florida</item>
+        <item>Limon, Costa Rica</item>
+        <item>Montego Bay, Jamaica</item>
+        <item>Mahogany Bay, Isla Roatan</item>
+        <item>Ocho Rios, Jamaica</item>
+        <item>Santa Marta, Columbia</item>
+        <item>Progreso, Mexico</item>
+    </string-array>
+
+    <string-array name="southern_caribbean_islands">
+        <item>Aruba</item>
+        <item>Bonaire</item>
+        <item>Curacao</item>
+        <item>Grenada</item>
+        <item>Dominicana</item>
+        <item>La Romana, Dominican Republic</item>
+        <item>St Maarten</item>
+        <item>Martinique</item>
+        <item>St Lucia</item>
+        <item>St Kitts</item>
+        <item>Scarborough, Trinidad and Tobago</item>
+    </string-array>
+
+    <string-array name="ensenada_catalina_islands">
+        <item>Catalina Island, California</item>
+        <item>Ensenada, Mexico</item>
+    </string-array>
+
+    <string-array name="mexican_riviera_islands">
+        <item>Puerta Vallarta, Mexico</item>
+        <item>Cabo San Lucas, Mexico</item>
+        <item>La Paz, Mexico</item>
+        <item>Manzanillo, Mexico</item>
+        <item>Mazatlan, Mexico</item>
+        <item>Zihuatenejo/Ixtapa, Mexico</item>
+    </string-array>
+
+    <string-array name="europe_ports">
+        <item>Athens, Greece</item>
+        <item>Barcelona, Spain</item>
+        <item>Cagliari (Sardinia), Italy</item>
+        <item>Corfu (Kerkyra)</item>
+        <item>Crete (Heraklion), Greece</item>
+        <item>Dubrovnik, Croatia</item>
+        <item>Gibraltar</item>
+        <item>Izmir (Ephesus), Turkey</item>
+        <item>Livorno (Florence/Pisa), Italy</item>
+        <item>Marseilles (Provence), France</item>
+        <item>Messina (Sicily), Italy</item>
+        <item>Naples (Capri/Pompeii), Italy</item>
+        <item>Palermo (Sicily)</item>
+        <item>Palma De Mallorca, Spain</item>
+        <item>Ponta Delgada (Azores)</item>
+        <item>Rhodes, Greece</item>
+        <item>Rome (Civitavecchia), Italy</item>
+        <item>Valleta (Malta)</item>
+    </string-array>
+
+    <string-array name="hawaii_ports">
+        <item>Hilo, Hawaii</item>
+        <item>Honolulu, Hawaii</item>
+        <item>Kauai(Nawiliwili), Hawaii</item>
+        <item>Kona, Hawaii</item>
+        <item>Mau(Kahului)</item>
+    </string-array>
+
+    <string-array name="alaska_ports">
+        <item>Juneau, Alaska</item>
+        <item>Ketchikan, Alaska</item>
+        <item>Skagway, Alaska</item>
+        <item>Victoria, British Columbia</item>
+    </string-array>
+
+    <string-array name="canada_new_england_ports">
+        <item>Boston, Massachusetts</item>
+        <item>Halifax, Nova Scotia</item>
+        <item>Portland, Maine</item>
+        <item>St John, New Brunswick</item>
+    </string-array>
+
+    <string-array name="bermuda_ports">
+        <item>King\'s Wharf, Bermuda</item>
+    </string-array>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:transitionGroup="false"
+    android:animateLayoutChanges="false">
+
+    <!--ship names in ship list fragment -->
+    <TextView
+        android:id="@+id/ship_name_view"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="@dimen/abc_text_size_display_3_material"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:gravity="center_vertical"
+        android:paddingLeft="5sp"
+        android:textSize="@dimen/abc_text_size_headline_material"
+        android:singleLine="false"
+        android:clickable="false" />
+
+    <!-- ship details in ship list fragment -->
+    <TextView
+        android:id="@+id/ship_attr_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="3"
+        android:paddingLeft="7sp"
+        android:gravity="bottom"
+        android:textSize="@dimen/abc_text_size_small_material" />
+
+</LinearLayout>
