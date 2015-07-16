@@ -142,6 +142,8 @@ public class ShipListFragment extends ListFragment{
         Magic = new Ship("MC", "Magic", 2011, 3690); arrayList.add(Magic);
         Breeze = new Ship("BR", "Breeze", 2012, 3690, R.drawable.breeze1,
                 R.drawable.breeze2, R.drawable.breeze3, R.drawable.breeze4); arrayList.add(Breeze);
+            Breeze.setCheckBoxArray(new int[]{9, 10, 11, 12, 13, 14, 15, 17, 19, 20, 21, 22, 24,
+                                        25, 26, 27});
         Sunshine = new Ship("SH", "Sunshine", 2013, 3002); arrayList.add(Sunshine);
         Vista = new Ship("VS", "Vista", 2016, 4000); arrayList.add(Vista);
     }

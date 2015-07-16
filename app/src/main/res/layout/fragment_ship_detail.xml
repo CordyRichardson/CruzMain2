@@ -78,27 +78,218 @@
                 android:checked="true"/>
 
             <CheckBox
-               android:id="@+id/cloud9_checkBox"
+               android:id="@+id/jogging_track_checkBox"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Cloud 9 Spa"
-
+                android:text="Jogging Track"
+                android:checked="true"
                 />
 
             <CheckBox
-                android:id="@+id/diveIn_movie_checkBox"
+                android:id="@+id/punchLiners_checkBox"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="Dive-In Movie Theatre"
+                android:text="PunchLiners Comedy Club"
+                android:checked="true"
                 />
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
 
+            <CheckBox
+                android:id="@+id/arcade_checkBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Video Arcade"
+                android:checked="true"/>
 
+            <CheckBox
+                android:id="@+id/playlist_checkBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Playlist"
+                android:checked="true"/>
 
-
+            <CheckBox
+                android:id="@+id/serenity_checkBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Adult-Only Serenity Area"/>
 
         </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:id="@+id/seuss_checkBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dr. Suess At Sea"/>
+
+            <CheckBox
+                android:id="@+id/hasbro_checkBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hasbro Game Show"/>
+
+            <CheckBox
+                android:id="@+id/waterworks_checkBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="WaterWorks Water Park"/>
+
+        </TableRow>
+
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <CheckBox
+            android:id="@+id/sea_side_theater_checkBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SeaSide Theater"/>
+
+        <CheckBox
+            android:id="@+id/red_frog_bar_checkBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Red Frog Rum Bar"/>
+
+        <CheckBox
+            android:id="@+id/blue_iguana_checkBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Blue Iguana Cantina"/>
+
+    </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:id="@+id/alchemy_bar_checkBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Alchemy Bar"/>
+
+            <CheckBox
+                android:id="@+id/funhub_checkBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Fun Hub"/>
+
+            <CheckBox
+                android:id="@+id/cloud9_checkBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cloud 9 Spa"/>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:id="@+id/dodgeball_checkBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="DodgeBall"/>
+
+            <CheckBox
+                android:id="@+id/winebar_checkBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Wine Bar"/>
+
+            <CheckBox
+                android:id="@+id/sports_square_checkBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sports Square"/>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:id="@+id/skyCourse_checkBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sky Course"/>
+
+            <CheckBox
+                android:id="@+id/libraryBar_checkBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Library Bar"/>
+
+            <CheckBox
+                android:id="@+id/thrill_theater_checkBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Thrill Theater"/>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:id="@+id/havanaBar_checkBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Havana Bar"/>
+
+            <CheckBox
+                android:id="@+id/skyRide_checkBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sky Ride"/>
+
+            <CheckBox
+                android:id="@+id/imax_checkBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="IMAX Theater"/>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <CheckBox
+                android:id="@+id/red_frog_pub"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Red Frog Pub"/>
+
+            <CheckBox
+                android:id="@+id/cherry_checkBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Cherry On Top"/>
+
+            <CheckBox
+                android:id="@+id/ea_checkBox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="EA Sports Bar"/>
+
+        </TableRow>
+
 
     </TableLayout>
 

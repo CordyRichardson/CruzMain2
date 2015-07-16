@@ -109,8 +109,12 @@ public class MainActivity extends ActionBarActivity
                 ft.commit();
                 break;
             case 2:
+                ft.replace(R.id.container, new NewsFragment());
+                ft.commit();
                 break;
             case 3:
+                ft.replace(R.id.container, new PromotionsFragment());
+                ft.commit();
                 break;
             default:
                 break;

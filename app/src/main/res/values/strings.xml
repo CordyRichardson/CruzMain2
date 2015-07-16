@@ -10,7 +10,7 @@
         <item>Ships</item>
         <item>Destinations</item>
         <item>News</item>
-        <item>Specials</item>
+        <item>Promotions</item>
     </string-array>
 
     <string-array name="destination_parent_list">

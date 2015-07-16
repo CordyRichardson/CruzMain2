@@ -2,32 +2,32 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Cordy Work\AndroidStudioProjects\CruzMain2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="C:\Users\Cordy Work\AndroidStudioProjects\CruzMain2\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-472febf3625dcf58ec4c738a04fc8202fa60d263.jar" />
-    </item>
-    <item
-        jar="C:\Users\Cordy Work1\Android SDK 12_20\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jar="/Users/cordyrichardson/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="C:\Users\Cordy Work\AndroidStudioProjects\CruzMain2\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-1f4dc08b7a5520bf5820fd0e03bf39b68308e93b.jar" />
+        <dex dex="/Users/cordyrichardson/Android Studio Projects/CruzMain2/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-eba4327123e87874a4b5f3c7e1bd73e30d4d8fa2.jar" />
     </item>
     <item
-        jar="C:\Users\Cordy Work\AndroidStudioProjects\CruzMain2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jar="/Users/cordyrichardson/Android Studio Projects/CruzMain2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="C:\Users\Cordy Work\AndroidStudioProjects\CruzMain2\app\build\intermediates\pre-dexed\debug\classes-e2a7a2efa84ef98f9c7fe4219ccd0940bfdd77cc.jar" />
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/cordyrichardson/Android Studio Projects/CruzMain2/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-d3e6a99d5d18152dc471b92d65f4c1efb21df999.jar" />
     </item>
     <item
-        jar="C:\Users\Cordy Work\AndroidStudioProjects\CruzMain2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jar="/Users/cordyrichardson/Android Studio Projects/CruzMain2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="C:\Users\Cordy Work\AndroidStudioProjects\CruzMain2\app\build\intermediates\pre-dexed\debug\classes-d44e01c9853f4a6bb522db933f28fa38d6a74a51.jar" />
+        <dex dex="/Users/cordyrichardson/Android Studio Projects/CruzMain2/app/build/intermediates/pre-dexed/debug/classes-74a96f9a9b336b2e70ce0cc1a400e909a1e3ca64.jar" />
+    </item>
+    <item
+        jar="/Users/cordyrichardson/Android Studio Projects/CruzMain2/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/cordyrichardson/Android Studio Projects/CruzMain2/app/build/intermediates/pre-dexed/debug/classes-94acad17aaf4429a78afd460e5823b631fa9957b.jar" />
     </item>
 
 </items>

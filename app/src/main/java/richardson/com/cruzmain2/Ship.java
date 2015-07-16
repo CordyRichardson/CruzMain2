@@ -24,6 +24,7 @@ public class Ship implements Serializable {
         private int buildYear;
         private int capacity;
         private List<Integer> imageIDList = new ArrayList<>();
+        private int[] checkBoxesToSet;
 
 
         public Ship(CharSequence id, String name, int built, int capacity, int...args){
@@ -55,6 +56,12 @@ public class Ship implements Serializable {
 
         public int getImageListSize(){
             return imageIDList.size();
+        }
+
+        public int[] getCheckBoxesToSet(){ return checkBoxesToSet;};
+
+        public void setCheckBoxArray(int[] checkBoxArray){
+            checkBoxesToSet = checkBoxArray;
         }
 
 
